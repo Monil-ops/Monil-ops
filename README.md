@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I’m passionate about working with data and transforming raw information into meaningful insights. Currently, I’m building my skills in Data Engineering, focusing on:
+<br>🔹 SQL & Database Management
+<br>🔹 Python for Data Processing
+<br>🔹 Big Data Tools (Apache Spark, Databricks)
+<br>🔹 ETL Pipelines & Data Warehousing
+I enjoy learning new technologies and applying them in real-world projects. My goal is to become a <br>skilled Data Engineer and contribute to data-driven solutions.
+<br>📌 Always open to learning, collaboration, and new opportunities.
 
 
 ## 🌐 Socials:
